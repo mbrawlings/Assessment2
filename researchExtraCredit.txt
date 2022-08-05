@@ -1,0 +1,4 @@
+Company: ClickUp
+Tech stack: javascript, core.js, jQuery
+Job openings: fullstack eng, security eng, web dev, software eng, staff eng
+Code/software desired/used: SQL, node.js, Angular, HTML/CSS, Java, C#, Ruby, Python, CSS
